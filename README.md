@@ -1,3 +1,4 @@
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=MustafaAltas" alt=""></p>
 <h2 align="center">My Name İs Mustafa 👋</h2>
 <h3 align="center"><a href="https://mustafa-altas.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/My%20Site-Click%20Me!-blue" alt="" width="200px"></a></h3>
 <p align="center">
@@ -106,6 +107,7 @@
       <a href="https://twitter.com/developer_altas" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=""></a>
 </div>
 
+
 <div  align="center">
         <span
           ><img
@@ -118,6 +120,8 @@
             alt=""
         /></span>
 </div>
+
+
 <!--
 **MustafaAltas/MustafaAltas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
