@@ -112,20 +112,14 @@
 <img
             src="https://github-readme-stats.vercel.app/api?username=MustafaAltas&theme=blue-green"
             alt=""
-            width="200px"
-            height="200px"
         /> <br/>
 <img
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAltas&theme=blue-green"
             alt=""
-            width="200px"
-            height="200px"
         /> <br/>
 <img
             src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustafaAltas&theme=vue"
             alt=""
-            width="200px"
-            height="200px"
         /> <br/>
 </div>
 
