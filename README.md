@@ -1,4 +1,4 @@
-### My Name İs Mustafa 👋
+<h2 align="center">My Name İs Mustafa 👋</h2>
 
 <p align="center">
         I am skilled at developing complex solutions, creating responsive
@@ -41,10 +41,7 @@
         src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
         alt=""
       />
-<img
-        src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-        alt=""
-      />
+
 <img
         src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
         alt=""
@@ -77,7 +74,12 @@
         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
         alt=""
       />
+<img
+        src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
+        alt=""
+      />
 </div>
+
 
 <!--
 **MustafaAltas/MustafaAltas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
