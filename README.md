@@ -108,7 +108,7 @@
 </div>
 
 
-<div  align="center">
+<div  align="center" margin-top ="30px">
 <img
             src="https://github-readme-stats.vercel.app/api?username=MustafaAltas&theme=blue-green"
             alt=""
