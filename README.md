@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-    <div style="display: flex; justify-content:center; padding:5rem">
-      <p>
+
+      <p style="display: flex; justify-content:center; padding:5rem">
         I am skilled at developing complex solutions, creating responsive
         designs, possessing strong creative thinking skills, high energy and
         integrity, Ability to create algorithms effectively, and interact
@@ -9,7 +9,7 @@
         grasp new technologies and concepts to develop innovative and creative
         solutions to problems.
       </p>
-    </div>
+
 
 <!--
 **MustafaAltas/MustafaAltas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
