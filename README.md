@@ -114,12 +114,14 @@
             src="https://github-readme-stats.vercel.app/api?username=MustafaAltas&theme=blue-green"
             alt=""
             width="200px"
+            height="200px"
         /></span>
         <span
           ><img
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAltas"
             alt=""
             width="200px"
+            height="200px"
         /></span>
 </div>
 
