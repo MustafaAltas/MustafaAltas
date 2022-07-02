@@ -118,7 +118,7 @@
         /></span>
         <span
           ><img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAltas"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAltas&theme=blue-green"
             alt=""
             width="200px"
             height="200px"
