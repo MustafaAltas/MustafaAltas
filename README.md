@@ -1,5 +1,5 @@
 <h2 align="center">My Name İs Mustafa 👋</h2>
-
+<a href="https://mustafa-altas.netlify.app/" target="_blank" align="center"><img src="https://img.shields.io/badge/My%20Site-Click%20Me!-blue" alt=""></a>
 <p align="center">
         I am skilled at developing complex solutions, creating responsive
         designs, possessing strong creative thinking skills, high energy and
@@ -78,8 +78,8 @@
         src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
         alt=""
       />
-</div>
 
+</div>
 
 <!--
 **MustafaAltas/MustafaAltas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
