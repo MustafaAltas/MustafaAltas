@@ -2,7 +2,7 @@
 
 <h2 align="center">My Name İs Mustafa 👋</h2>
 <h3 align="center"><a href="https://mustafa-altas.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/My%20Site-Click%20Me!-blue" alt="" width="200px"></a></h3>
-<h3 align="center"><a href="https://mustafa-altas.netlify.app/product#" target="_blank"><img src="https://img.shields.io/badge/My%20Project-Click%20Me!-green" alt="" width="200px"></a></h3>
+<h3 align="center"><a href="https://mustafa-altas.netlify.app/product" target="_blank"><img src="https://img.shields.io/badge/My%20Project-Click%20Me!-green" alt="" width="200px"></a></h3>
 <p align="center">
         I am skilled at developing complex solutions, creating responsive
         designs, possessing strong creative thinking skills, high energy and
