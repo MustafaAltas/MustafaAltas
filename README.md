@@ -114,7 +114,7 @@
             src="https://github-readme-stats.vercel.app/api?username=MustafaAltas&theme=blue-green"
             alt=""
             width="200px"
-            height="200px"
+            height="400px"
         /></span>
         <span
           ><img
