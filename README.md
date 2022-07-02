@@ -106,7 +106,18 @@
       <a href="https://twitter.com/developer_altas" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=""></a>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username={MustafaAltas}" alt="">
+<div  align="center">
+        <span
+          ><img
+            src="https://github-readme-stats.vercel.app/api?username=MustafaAltas&theme=blue-green"
+            alt=""
+        /></span>
+        <span
+          ><img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAltas"
+            alt=""
+        /></span>
+</div>
 <!--
 **MustafaAltas/MustafaAltas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
