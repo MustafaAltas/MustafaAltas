@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p style="display:flex, justify-content:center">
+<p style="display:flex, justify-content:center, width:50%">
         I am skilled at developing complex solutions, creating responsive
         designs, possessing strong creative thinking skills, high energy and
         integrity, Ability to create algorithms effectively, and interact
