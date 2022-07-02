@@ -120,7 +120,13 @@
             alt=""
             width="200px"
             height="200px"
-        />
+        /> <br/>
+<img
+            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustafaAltas&theme=vue"
+            alt=""
+            width="200px"
+            height="200px"
+        /> <br/>
 </div>
 
 
