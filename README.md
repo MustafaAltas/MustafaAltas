@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-      <p>
+      <p align="center">
         I am skilled at developing complex solutions, creating responsive
         designs, possessing strong creative thinking skills, high energy and
         integrity, Ability to create algorithms effectively, and interact
