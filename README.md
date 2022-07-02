@@ -9,8 +9,8 @@
         solutions to problems.
 </p>
 
-<h4>🚀Technical Skills</h4>
-<div>
+<h4 align="center">🚀Technical Skills</h4>
+<div align="center">
 <img
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
         alt=""
