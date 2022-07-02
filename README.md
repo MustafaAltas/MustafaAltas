@@ -1,6 +1,6 @@
-### Hi there 👋
+### My Name İs Mustafa 👋
 
-<p style="display:flex, justify-content:center, width:50%">
+<p align="center">
         I am skilled at developing complex solutions, creating responsive
         designs, possessing strong creative thinking skills, high energy and
         integrity, Ability to create algorithms effectively, and interact
@@ -8,6 +8,7 @@
         grasp new technologies and concepts to develop innovative and creative
         solutions to problems.
 </p>
+
 
 <!--
 **MustafaAltas/MustafaAltas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
